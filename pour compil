@@ -1,0 +1,1 @@
+﻿g++ *.cpp glad.c -lGL -lGLU -lglut -std=c++11 -ldl -o exec
